@@ -95,24 +95,8 @@ SIMPLE_JWT = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "https://45.15.24.205",
-    "https://minegocio.me",
-    "http://localhost",
-    "http://localhost:8002",
-    "https://localhost",
-    "https://localhost:8002",
-    "https://127.0.0.1",
-    "http://127.0.0.1",
-    "http://127.0.0.1:8002",
-    "https://127.0.0.1:8002",
-    'http://localhost',
-    'http://127.0.0.1:8080',
-    'http://localhost:8080',
-    'http://mitienda.app',
-    'https://mitienda.app',
-    'https://miuniverso1.mitienda.app',
-    'https://miuniverso.mitienda.app',
-    'https://zionestudio.com',
+    
+    
 ]
 
 
