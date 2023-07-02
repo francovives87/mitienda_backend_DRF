@@ -15,7 +15,7 @@ DATABASES = {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'mitienda_app_2',
         'USER': 'mitienda_app_db_user',
-        'PASSWORD': '@Gamefox33336078',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT':'5432'
     }
@@ -25,7 +25,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtpout.secureserver.net'
 EMAIL_HOST_USER = 'contacto@mitienda.app'
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
-EMAIL_HOST_PASSWORD = '@Gamefox33336078'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 80
 EMAIL_USE_SSL = False
 EMAIL_USE_TLS = True
